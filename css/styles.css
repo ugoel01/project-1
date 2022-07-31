@@ -1,0 +1,54 @@
+body{
+  font-family: 'Roboto', sans-serif;
+}
+
+h2{
+  color: #4CACBC;
+  font-weight: 500;
+}
+
+h3{
+  color: #D4D925;
+  font-weight: 500;
+}
+
+h4, h6{
+  color: white;
+}
+
+span{
+  font-size: 2rem;
+}
+
+.container-fluid{
+  padding: 10% 30% 3rem;
+}
+
+.main-para{
+  color: #AAAAAA;
+  margin: 0;
+}
+
+.column-para{
+  font-size: 0.7rem;
+  color: white;
+  line-height: 2;
+}
+
+.left-column{
+  background-color: #4CACBC;
+  padding: 5%;
+}
+
+.right-column{
+  background-color: #66BFBF;
+  padding: 5%;
+}
+
+.row{
+  padding: 0 27%;
+}
+
+.btn{
+  color: white;
+}
